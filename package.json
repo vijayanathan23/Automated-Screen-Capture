@@ -1,0 +1,23 @@
+{
+  "name": "automated-screen-capture",
+  "version": "1.0.0",
+  "description": "An automated Scanner using selenium to take screen shots in windows",
+  "main": "ACS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayanathan23/Automated-Screen-Capture.git"
+  },
+  "author": "Vijayanathan J (cyb3r_l3arn3r)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayanathan23/Automated-Screen-Capture/issues"
+  },
+  "homepage": "https://github.com/vijayanathan23/Automated-Screen-Capture#readme",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}

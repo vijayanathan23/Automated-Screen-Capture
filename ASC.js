@@ -45,16 +45,7 @@ if (process.argv.length < 3) {
     //new_url2 = "http://"+url;
     console.log("SC "+ new_url1);
     await example(new_url1,fold,url);
-    //setTimeout(example,10000,new_url1,fold);
- /*   let driver = new webdriver.Builder()
-                                        .forBrowser('chrome').build();
-    driver.get(new_url1)
-    .then(async _ =>
-    {
-      let encodedString = driver.takeScreenshot().then(async _=>{
-        fs.writeFileSync('./image.png', encodedString, 'base64').then(async _=>{driver.quit();}); }) 
-    })
-   */ 
+    
  }
 
 

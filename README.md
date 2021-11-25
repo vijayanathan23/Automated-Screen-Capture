@@ -11,8 +11,11 @@ can be used for various things but main objective was to find the possible Subdo
 => The script is written in nodeJS so make sure , nodeJS is installed
 
 => git clone https://github.com/vijayanathan23/Automated-Screen-Capture
+
 => cd Automated-Screen-Capture
+
 => npm install
+
 => node check.js 
 
 (If the above Command opens the selenium website, Huraaayy! Everythings working. If NOT Something went wrong :( !)
